@@ -1,0 +1,7 @@
+aiogram==3.0.0b8
+python-dotenv
+sqlalchemy
+asyncpg
+alembic
+requests
+fake_useragent
